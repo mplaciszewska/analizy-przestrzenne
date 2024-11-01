@@ -1,7 +1,7 @@
 ## Analiza optymalnej lokalizacji farmy fotowoltaicznej
 Projekt dotyczy wskazania optymalnej lokalizacji do wybudowania nowej farmy fotowoltaicznej dla obszaru gminy Świeradów Zdrój (województwo dolnośląskie, powiat lubański).
 
-### Kryteria wskazania optymalnej lokalizacji inwestycji
+#### Kryteria wskazania optymalnej lokalizacji inwestycji
 | Lp | Kryterium | Parametry |
 | ------------- | ------------- | ------------- |
 | 1  | Odległość od rzek i zbiorników wodnych | jak najbliżej (nieprzekraczalna strefa ochronna 100m)  |
@@ -12,7 +12,7 @@ Projekt dotyczy wskazania optymalnej lokalizacji do wybudowania nowej farmy foto
 | 6  | Dostęp światła słonecznego  | optymalnie: stoki południowe (SW-SE) |
 | 7  | dobry dojazd od istotnych drogowych węzłów komunikacyjnych | jak najkrótszy czas dojazdu |
 
-### Po połączeniu kryteriów i stworzeniu mapy przydatności:
+##### Po połączeniu kryteriów i stworzeniu mapy przydatności:
 | Lp | Kryterium | Parametry |
 | ------------- | ------------- | ------------- |
 | 1  | Ocena przydatności terenu (próg przydatności) | 80% / 90% max. przydatności |
